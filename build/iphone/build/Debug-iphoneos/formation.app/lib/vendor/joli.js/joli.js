@@ -1,0 +1,1 @@
+/Users/cousquer/Documents/Titanium Studio Workspace/formation/Resources/lib/vendor/joli.js/joli.js

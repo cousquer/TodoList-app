@@ -1,0 +1,1 @@
+/Users/cousquer/Documents/Titanium Studio Workspace/formation/Resources/modules/tasklist/EditionWindow.js
